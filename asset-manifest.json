@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4130ca0b.chunk.css",
+    "main.js": "/static/js/main.7eb8fa33.chunk.js",
+    "main.js.map": "/static/js/main.7eb8fa33.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2a1d993.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2a1d993.js.map",
+    "static/js/2.631a6707.chunk.js": "/static/js/2.631a6707.chunk.js",
+    "static/js/2.631a6707.chunk.js.map": "/static/js/2.631a6707.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4130ca0b.chunk.css.map": "/static/css/main.4130ca0b.chunk.css.map",
+    "static/js/2.631a6707.chunk.js.LICENSE.txt": "/static/js/2.631a6707.chunk.js.LICENSE.txt",
+    "static/media/MemoryGame.235a7716.jpeg": "/static/media/MemoryGame.235a7716.jpeg",
+    "static/media/TheCocktailList.9a0bbf90.jpg": "/static/media/TheCocktailList.9a0bbf90.jpg",
+    "static/media/css-5.d4c86ccd.svg": "/static/media/css-5.d4c86ccd.svg",
+    "static/media/express-109.3193ad6d.svg": "/static/media/express-109.3193ad6d.svg",
+    "static/media/firebase-1.e6583a29.svg": "/static/media/firebase-1.e6583a29.svg",
+    "static/media/getpostman-icon.94572c35.svg": "/static/media/getpostman-icon.94572c35.svg",
+    "static/media/git-icon.c60b7e5a.svg": "/static/media/git-icon.c60b7e5a.svg",
+    "static/media/github-icon.b7a10fed.svg": "/static/media/github-icon.b7a10fed.svg",
+    "static/media/github.55f9fff5.svg": "/static/media/github.55f9fff5.svg",
+    "static/media/go-to-location.a6976a2b.svg": "/static/media/go-to-location.a6976a2b.svg",
+    "static/media/gsap.dff87e2d.svg": "/static/media/gsap.dff87e2d.svg",
+    "static/media/html5.3efc40a5.svg": "/static/media/html5.3efc40a5.svg",
+    "static/media/javascript.12c27ea4.svg": "/static/media/javascript.12c27ea4.svg",
+    "static/media/json.5657c33c.svg": "/static/media/json.5657c33c.svg",
+    "static/media/linkedin.581c51a9.svg": "/static/media/linkedin.581c51a9.svg",
+    "static/media/mail.9c2a9262.svg": "/static/media/mail.9c2a9262.svg",
+    "static/media/mongodb-icon-1.1aca075d.svg": "/static/media/mongodb-icon-1.1aca075d.svg",
+    "static/media/node-js-logo.502737ea.svg": "/static/media/node-js-logo.502737ea.svg",
+    "static/media/npm.5066c092.svg": "/static/media/npm.5066c092.svg",
+    "static/media/reacticon.f1484e29.svg": "/static/media/reacticon.f1484e29.svg",
+    "static/media/sass-1.8aa78a83.svg": "/static/media/sass-1.8aa78a83.svg",
+    "static/media/tailwind.50fbcf51.svg": "/static/media/tailwind.50fbcf51.svg",
+    "static/media/twitter.536733a8.svg": "/static/media/twitter.536733a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a1d993.js",
+    "static/js/2.631a6707.chunk.js",
+    "static/css/main.4130ca0b.chunk.css",
+    "static/js/main.7eb8fa33.chunk.js"
+  ]
+}
